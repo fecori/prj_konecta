@@ -30,4 +30,6 @@ database.default.port = 3306
 
 ## Iniciar codeigniter
 
-`composer create-project codeigniter4/appstarter`
+```sh
+php spark serve
+```
