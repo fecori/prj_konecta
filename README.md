@@ -9,7 +9,7 @@
 ```sh
 mysql -u root –p
 mysql> CREATE DATABASE db_konecta;
-exit
+mysql> exit
 ```
 
 ```sh
